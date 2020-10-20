@@ -9,8 +9,8 @@ def toadstool
 end
 
 def link
-  sage_phrase = "It's Dangerous To Go Alone! Take This."
-  puts sage_phrase
+  phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
 end
 
 def all_phrases
